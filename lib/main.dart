@@ -104,7 +104,7 @@ class _MyHomePageState extends State<MyHomePage> {
           // wireframe for each widget.
           mainAxisAlignment: .center,
           children: [
-            const Text('My First Flutter App'),
+            const Text('My First Flutter App on Flutter'),
             Text(
               '$_counter',
               style: Theme.of(context).textTheme.headlineMedium,
